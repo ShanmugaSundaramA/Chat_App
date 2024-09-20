@@ -1,0 +1,5 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "spring-boot.ls.problem.application-properties.PROP_UNKNOWN_PROPERTY": "IGNORE",
+  "java.debug.settings.onBuildFailureProceed": true
+}
